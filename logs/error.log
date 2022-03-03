@@ -1,0 +1,7 @@
+{"level":"error","message":"password should have atleast one special character"}
+{"level":"error","message":"password should have atleast one digit"}
+{"level":"error","message":"password should have atleast one uppercase letter"}
+{"level":"error","message":"password should have at least one whitespace character"}
+{"level":"error","message":"password should have atleast one lowercase letter"}
+{"level":"error","message":"password should be longer than 8 characters"}
+{"level":"error","message":"password should exist"}
